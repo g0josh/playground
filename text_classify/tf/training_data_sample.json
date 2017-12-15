@@ -1,0 +1,31 @@
+{
+    "training_data":[
+        {
+            "intent":"direction",
+            "sentences":[
+                "Where is the reception",
+                "Which way to the bathroom"
+            ]
+        },
+        {
+            "intent":"greet",
+            "sentences":[
+                "Hello chip",
+                "How are you"
+            ]
+        },
+        {
+            "intent":"weather",
+            "sentences":[
+                "What is the weather like today?",
+                "What's the weather"
+            ]
+        },
+        {
+            "intent":"direction",
+            "sentences":[
+                "How far is the kitchen"
+            ]
+        }
+    ]
+}

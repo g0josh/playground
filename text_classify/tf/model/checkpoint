@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/cbarobotics/dev/playground/text_classify/tf/model/model.tflearn"
+all_model_checkpoint_paths: "/home/cbarobotics/dev/playground/text_classify/tf/model/model.tflearn"
